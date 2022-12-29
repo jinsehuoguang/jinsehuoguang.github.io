@@ -3,12 +3,32 @@
     <title>金色火光的博客</title>
     <link href="https://jinsehuoguang.github.io/feed.xml" rel="self" />
     <link href="https://jinsehuoguang.github.io" />
-    <updated>2022-12-29T10:44:27+08:00</updated>
+    <updated>2022-12-29T11:15:48+08:00</updated>
     <author>
         <name>金色火光</name>
     </author>
     <id>https://jinsehuoguang.github.io</id>
 
+    <entry>
+        <title>更新册数</title>
+        <author>
+            <name>金色火光</name>
+        </author>
+        <link href="https://jinsehuoguang.github.io/geng-xin-ce-shu.html"/>
+        <id>https://jinsehuoguang.github.io/geng-xin-ce-shu.html</id>
+
+        <updated>2022-12-29T11:15:48+08:00</updated>
+            <summary>
+                <![CDATA[
+                    1235
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>1235</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>测试文章</title>
         <author>
