@@ -1,34 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>博客测试1</title>
+    <title>金色火光的博客</title>
     <link href="https://jinsehuoguang.github.io/feed.xml" rel="self" />
     <link href="https://jinsehuoguang.github.io" />
-    <updated>2022-12-29T11:15:48+08:00</updated>
+    <updated>2023-01-09T15:56:03+08:00</updated>
     <author>
         <name>金色火光</name>
     </author>
     <id>https://jinsehuoguang.github.io</id>
 
-    <entry>
-        <title>更新册数</title>
-        <author>
-            <name>金色火光</name>
-        </author>
-        <link href="https://jinsehuoguang.github.io/geng-xin-ce-shu.html"/>
-        <id>https://jinsehuoguang.github.io/geng-xin-ce-shu.html</id>
-
-        <updated>2022-12-29T11:15:48+08:00</updated>
-            <summary>
-                <![CDATA[
-                    1235
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>1235</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>测试文章</title>
         <author>
@@ -36,21 +16,24 @@
         </author>
         <link href="https://jinsehuoguang.github.io/ce-shi-wen-zhang.html"/>
         <id>https://jinsehuoguang.github.io/ce-shi-wen-zhang.html</id>
+            <category term="极客"/>
 
-        <updated>2022-12-29T10:44:27+08:00</updated>
+        <updated>2023-01-09T15:56:03+08:00</updated>
             <summary>
                 <![CDATA[
-                    这是一个测试文章 1 3
+                        <img src="https://jinsehuoguang.github.io/media/posts/1/img0-2.jpg" alt="" />
+                    这是一个测试文章
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://jinsehuoguang.github.io/media/posts/1/img0-2.jpg" alt="" />
                 <p>这是一个测试文章</p>
 <figure class="post__image"><img loading="lazy"  src="https://jinsehuoguang.github.io/media/posts/1/img0.jpg" sizes="100vw" srcset="https://jinsehuoguang.github.io/media/posts/1/responsive/img0-xs.jpg 300w ,https://jinsehuoguang.github.io/media/posts/1/responsive/img0-sm.jpg 480w ,https://jinsehuoguang.github.io/media/posts/1/responsive/img0-md.jpg 768w ,https://jinsehuoguang.github.io/media/posts/1/responsive/img0-lg.jpg 1024w ,https://jinsehuoguang.github.io/media/posts/1/responsive/img0-xl.jpg 1360w ,https://jinsehuoguang.github.io/media/posts/1/responsive/img0-2xl.jpg 1600w"  alt="" width="1920" height="1200"></figure>
 <ul>
 <li>1</li>
-<li>3</li>
 </ul>
+<p> </p>
             ]]>
         </content>
     </entry>
